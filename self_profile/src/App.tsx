@@ -10,7 +10,7 @@ function App() {
       <main>
         <h2>自己紹介</h2>
         <ul>
-          <li>名前：イチロー</li>
+          <li>名前：イチロウ</li>
           <li>職業：会社員</li>
           <li>年齢：２０代</li>
           <li>性別：男</li>
